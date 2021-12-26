@@ -65,3 +65,6 @@ Parâmetros:
 ```
 s : string representation of the byte value 
 ```
+
+
+### Referências
