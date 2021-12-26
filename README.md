@@ -13,7 +13,7 @@ Uma classe que possui um atributo de um tipo primitivo correspondente, o que per
 ### Classe Java.lang.Integer
 A classe inteira é uma classe **wrappers** para o tipo primitivo int que contém vários métodos para lidar efetivamente com um valor int, como convertê-lo em uma representação de string e vice-versa. Um objeto da classe Integer pode conter um único valor int.
 
-Construtores: 
+
 
 - `Integer (int b)`: Cria um objeto Integer inicializado com o valor fornecido.
 <p>Sintaxe:</p>
@@ -26,7 +26,7 @@ Parâmetros:
 ```
 b : value with which to initialize
 ```
-Construtores:
+
 - `Integer (String s)`: Cria um objeto Integer inicializado com o valor int fornecido pela representação de string. A raiz padrão é considerada 10.
 
 Sintaxe: 
@@ -65,6 +65,5 @@ Parâmetros:
 ```
 s : string representation of the byte value 
 ```
-
 
 ### Referências
